@@ -1,8 +1,9 @@
+# **⚠️ Important Notice**
+It was built as part of my **Full Stack Web Development Diploma at [Route Academy]** — a leading software training center in Egypt.
+
 # ⚽ Football Facts Webpage
 
 This is a simple and fun HTML project that displays **6 random and interesting football facts** using basic web technologies.
-
-It was built as part of my **Full Stack Web Development Diploma at [Route Academy]** — a leading software training center in Egypt.
 
 ## 🌐 Project Description
 
